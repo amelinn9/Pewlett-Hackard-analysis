@@ -7,7 +7,6 @@ Pewlett Hackard is a large company that has several thousand employees. They wou
 #### Criteria of Analyses
 - Number of Retiring Employees by Title
   - Employees with a birthdate between 1952 and 1955.
-
 - Employees Eligible for the Mentorship Program
   - Employees with a birthdate in 1965.
 
