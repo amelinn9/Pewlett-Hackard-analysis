@@ -34,3 +34,18 @@ There are 72,458 employees within our criteria currently employed that are soon 
 <img src="Queries/revised_retiring_dept.PNG" alt="Revised total retiring depts table"/>
 
 ### 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+**Criteria of Analysis**
+-	Employees with birthdate in 1965
+-	Currently employed
+
+![Mentorship Eligibility count](Queries/mentorship_eligibility_count.PNG)
+
+There are 1,549 employees within the criteria eligible for the mentorship program.
+
+Since there are 72,458 retiring employees, there will be 72,458 job openings to fill. Hence, the next generation employees will equal this number. Refer to the tables below to compare how many next generation employees will be assigned to each mentor. As you can see, some titles in some departments do not have mentors. These include Assistant Engineers in the Customer Service and Research departments, and Managers in the Research and Sales departments. The mentors in the level above these positions might have to take on more mentees.
+
+**Mentors Table**                             **Next Generation Table** <br>
+<img src="Queries/mentorship_eligibility_count.PNG" alt="Mentors"/>    
+<img src="Queries/retirement_count.PNG" alt="NextGen"/>
+
+
