@@ -3,7 +3,6 @@
 ## Overview
 Pewlett Hackard is a large company that has several thousand employees. They would like to prepare to fill potential vacancies in their company as baby boomers begin to retire at a rapid rate. Pewlett Hackard is offering a retirement package for those who meet certain criteria and is also introducing a mentoring program where experienced and successful employees are mentors to newly hired employees. The purpose of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in the mentorship program.
 
-
 ## Results
 #### Criteria of Analyses
 - Number of Retiring Employees by Title
@@ -11,7 +10,6 @@ Pewlett Hackard is a large company that has several thousand employees. They wou
 
 - Employees Eligible for the Mentorship Program
   - Employees with a birthdate in 1965.
-<br>
 
 1. There were 133,776 rows in the “retirement_titles” table and 90,398 rows in the “unique_titles” table after running the distinct on function. The number decreased because we removed duplicate rows where a single employee may have had switched positions in the company.
 
